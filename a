@@ -1,0 +1,58 @@
+[33mcommit cfc08d4ac61007fb10bbca925870ef247378ea6f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adrian <adrian.xian@students.mq.edu.au>
+Date:   Tue Aug 4 12:08:53 2026 +1000
+
+    testing file
+
+[33mcommit 2957bec6afa3656156cdcddb1398625b7ce8ecaa[m
+Merge: 7457d8c e568a05
+Author: Adrian <adrian.xian@students.mq.edu.au>
+Date:   Tue Aug 4 12:05:12 2026 +1000
+
+    Merge branch 'main' of https://github.com/BenjaminMQUNI/COMP2000-TheUngradables
+
+[33mcommit 7457d8c269cbb2c30e3c274ff26cfbd1034bf174[m
+Author: Adrian <adrian.xian@students.mq.edu.au>
+Date:   Tue Aug 4 12:01:32 2026 +1000
+
+    testing
+
+[33mcommit e568a05a412cd9ef2629d7ad41cdab22a08d49b1[m
+Author: narutodude11 <aidan.huang@students.mq.edu.au>
+Date:   Tue Aug 4 12:00:35 2026 +1000
+
+    Create Aidan.txt
+
+[33mcommit e86f0b1d20d015d0ada4e988656a347119c23d02[m
+Author: BenjaminMQUNI <benjamin.osborne2@students.mq.edu.au>
+Date:   Tue Aug 4 11:59:37 2026 +1000
+
+    Add files via upload
+
+[33mcommit 9050a02cb8d8b55f6054f3ff052d520b80e1b18e[m
+Author: WilliamBrown5 <william.brown5@students.mq.edu.au>
+Date:   Tue Aug 4 11:58:30 2026 +1000
+
+    William message
+
+[33mcommit 827f548fdc7c29d21841ccb0cbefd75146ed1561[m
+Author: Rysterstuffs <ryan.mckee@students.mq.edu.au>
+Date:   Tue Aug 4 11:58:24 2026 +1000
+
+    Putting my name in
+    
+    descriptio n
+
+[33mcommit b8535013aaa9aa052f881f1094d414e24c300d79[m
+Author: Rysterstuffs <ryan.mckee@students.mq.edu.au>
+Date:   Tue Aug 4 11:54:38 2026 +1000
+
+    Create Ryan.txt
+
+[33mcommit 6e0135c7e8ef7737fba173b15d515b3f697a2924[m
+Author: WilliamBrown5 <william.brown5@students.mq.edu.au>
+Date:   Tue Aug 4 11:53:11 2026 +1000
+
+    message
+    
+    this should work hopefully
